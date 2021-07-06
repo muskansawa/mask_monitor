@@ -38,10 +38,13 @@ https://user-images.githubusercontent.com/44108897/124388523-fd0a9600-dd00-11eb-
 ![image](https://user-images.githubusercontent.com/44108897/124586693-5e06ab00-de74-11eb-9d1c-4d966b5edc77.png)
 
 ## training 
+ - i used 12K  dataset from kaggle and trained my model on 10000 images
+ - val_accuracy: 0.9975
  
 ## testing
  Check for the accuracy using a confusion matrix and plotting it using matplotlib’s pilot module.
- 
+ ![image](https://user-images.githubusercontent.com/44108897/124589513-b4291d80-de77-11eb-841a-981f0b15b1fe.png)
+
 
 ## Updating the database with labelled images from our local directory:
 
