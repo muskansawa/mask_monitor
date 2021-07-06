@@ -53,5 +53,8 @@ https://user-images.githubusercontent.com/44108897/124388523-fd0a9600-dd00-11eb-
 - The name of our table is pic
 - It stores 3 parameters (the id of defaulter, name if known, the image captured).
 
+![image](https://user-images.githubusercontent.com/44108897/124589993-429d9f00-de78-11eb-9212-d2b8c41e9a42.png)
+
+
 ![image15](https://user-images.githubusercontent.com/44108897/124587531-5693d180-de75-11eb-9650-ee4e8bf34ec2.png)
 
